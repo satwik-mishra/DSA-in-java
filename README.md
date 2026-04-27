@@ -41,7 +41,7 @@ JAVA-DSA/
 ├── Binary-Trees/
 ├── Binary-Search-Trees/
 ├── Graphs/
-└── Dynamic-Programming/
+└── Dynamic-Programming/ 
 ```
 
 ---
@@ -55,7 +55,7 @@ JAVA-DSA/
 * Kadane’s Algorithm
 * Two Pointer Technique
 * Sliding Window Technique
-
+<!-- 
 ## 2. Strings
 
 * String traversal
@@ -168,7 +168,7 @@ JAVA-DSA/
 * Memoization
 * Tabulation
 * 1D DP
-* 2D DP
+* 2D DP -->
 
 ---
 
